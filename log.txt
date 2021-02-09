@@ -1,0 +1,71 @@
+commit 028923474e571f8f716288f9083ccce46532725a
+Author: Catherine Shibeko <katshib@mail.ru>
+Date:   Tue Feb 9 17:53:57 2021 +0300
+
+    Check changes
+
+commit 04209b66d6adee473168e5dd19d59749c55b0649
+Author: Catherine Shibeko <katshib@mail.ru>
+Date:   Tue Feb 9 17:50:38 2021 +0300
+
+    Add .gitignore
+
+commit 8a61e38bd1fb94144d4a9c955044f3dfaa5bbbd7
+Author: Catherine Shibeko <katshib@mail.ru>
+Date:   Tue Feb 9 16:32:46 2021 +0300
+
+    Add .gitignore
+
+commit b97235ecf21cba1fdfc6512a6f01258435478a70
+Author: Catherine Shibeko <katshib@mail.ru>
+Date:   Tue Feb 9 16:23:22 2021 +0300
+
+    Checking status
+
+commit 08ace948e4d78ceb605b71e18ff66df66a961b4d
+Author: Catherine Shibeko <katshib@mail.ru>
+Date:   Tue Feb 9 15:36:08 2021 +0300
+
+    Checking status
+
+commit 42b2eb107317fba6c33888631f7a9729cc484e3b
+Author: Catherine Shibeko <katshib@mail.ru>
+Date:   Tue Feb 9 15:29:15 2021 +0300
+
+    Checking status
+
+commit d33c1027aff42da21e7e17865013a05d2fe70a2e
+Author: Catherine Shibeko <katshib@mail.ru>
+Date:   Tue Feb 9 15:28:16 2021 +0300
+
+    Checking status
+
+commit b746dc66785f3dca515db7f0009d331d0ac2ef95
+Author: Catherine Shibeko <katshib@mail.ru>
+Date:   Tue Feb 9 15:27:34 2021 +0300
+
+    Checking status
+
+commit 8920126695b5ef5a163e3dba78542f9809268413
+Author: Catherine Shibeko <katshib@mail.ru>
+Date:   Tue Feb 9 15:20:48 2021 +0300
+
+    Checking status
+
+commit d1d8fda0b0ea7abd6ac9e78d2bf11f097988f1d6
+Author: Catherine Shibeko <katshib@mail.ru>
+Date:   Tue Feb 9 14:00:38 2021 +0300
+
+    Checking acc
+
+commit a185e0597dd30185d2e5f3925d7c6c426d9fdb46
+Author: Catherine Shibeko <katshib@mail.ru>
+Date:   Tue Feb 9 13:55:58 2021 +0300
+
+    Checking acc
+
+commit 09ceb08ad7e9f1e03b75caa0b2100ff1a3a52937
+Author: Catherine Shibeko <katshib@mail.ru>
+Date:   Tue Feb 9 13:42:54 2021 +0300
+
+    First commit
