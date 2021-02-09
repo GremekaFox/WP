@@ -12,3 +12,5 @@
 нет изменений добавленных для коммита
 (используйте «git add» и/или «git commit -a»)
 
+changed Hello world
+
